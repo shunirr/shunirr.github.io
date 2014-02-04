@@ -22,8 +22,8 @@ layout: default
 * [Github](https://github.com/shunirr)
 
 ## Contacts
-* [Twitter](http://twitter.com/shunirr)
-  * @shunirr
+* Twitter
+  * [@shunirr](http://twitter.com/shunirr)
 * IRC
   * \#s5r@freenode
 * Email
