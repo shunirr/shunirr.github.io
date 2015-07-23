@@ -9,6 +9,8 @@ layout: default
   * shunirr
 * Location
   * Nakano, Tokyo, Japan
+* Job
+  * Android application developer
 
 ## Products
 * [インテントで画像検索](https://play.google.com/store/apps/details?id=jp.s5r.android.imagesearch2)
