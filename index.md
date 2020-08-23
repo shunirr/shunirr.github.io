@@ -10,10 +10,6 @@ layout: default
 * Location
   * Tokyo, Japan
 
-## Products
-
-* [See more ...](https://github.com/shunirr)
-
 ## Using Services
 
 * [Hatena Blog](http://shunirr.hatenablog.jp/)
