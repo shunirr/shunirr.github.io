@@ -22,7 +22,7 @@ layout: default
 * Twitter
   * [@shunirr](http://twitter.com/shunirr)
 * Email
-  * m@s5r.jp
+  * m at s5r dot jp
 
 ## Game Accounts
 
